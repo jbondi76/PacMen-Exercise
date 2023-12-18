@@ -1,4 +1,5 @@
 # PacMen-Exercise
+<img src= "pacmenthumb.png" width='300'/>
 Coding exercise to showcase my ability to manipulate the DOM.
 
 Exercise objective is to create a web page that produces a PacMan with the click of a button using array methods. You can create as many PacMen as you wish and each PacMan will have a random position and velocity.
