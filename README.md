@@ -3,6 +3,8 @@ Coding exercise to showcase my ability to manipulate the DOM.
 
 Exercise objective is to create a web page that produces a PacMan with the click of a button using array methods. You can create as many PacMen as you wish and each PacMan will have a random position and velocity.
 
+INSTRUCTIONS TO RUN THE EXERCISE: Download the Zip file then be sure to extract all the files. Once extracted, you just need to open the HTML file in your browser. *NOTE - If you have GitHub Desktop downloaded on your device you can open the repository using desktop without the need to extract the files.
+
 LICENSE MIT License
 
 Copyright (c) 2020 John Williams
